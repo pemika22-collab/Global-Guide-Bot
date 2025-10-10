@@ -1,0 +1,7 @@
+# Terraform Variables
+# This file contains sensitive values - DO NOT commit to git!
+
+# WhatsApp Configuration
+whatsapp_access_token    = "EAALZBkZCF1pB4BPn19zZBScrFUsripjgeoJ7LELMkEgG3fp8OxyENnAZB0PNgA4GIzp84J0pZAroeyUgZAidfw1DtkVEagNqLd36ND80QF9AMEJCiz6uvuxkvmDZCpYmlvUi9QfKHHUqds13amZAbNd1pGZBXZAUUvBtPKIdJCZAbnMbQm9OoCEbuv9KRmDQiy2jvjN7euknpER1NWWMz0S7zqBZBp29LEOd4P414dlGTWrdy9mn"
+whatsapp_phone_number_id = "846492738537073"
+whatsapp_verify_token    = "global_guide_bot_verify_2024"
