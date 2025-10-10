@@ -1,0 +1,1 @@
+# Models package for Thailand Guide Bot
