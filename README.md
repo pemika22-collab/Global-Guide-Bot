@@ -46,13 +46,13 @@ See `demo/DEMO_GUIDE.md` for complete demo instructions and flows.
 
 ## 🏗️ Architecture
 
-**AWS Serverless Stack**: WhatsApp/LINE/Telegram → API Gateway → Lambda (Enhanced AgentCore) → Nova Pro/Act → DynamoDB (Guides/Bookings) + S3 (Images) + CloudWatch (Monitoring)
+**AWS Serverless Stack**: WhatsApp/LINE/Telegram → API Gateway → Lambda (Enhanced AgentCore) → Nova Pro → DynamoDB (Guides/Bookings) + S3 (Images) + CloudWatch (Monitoring)
 
 **Production Ready**:
 - **Enhanced AgentCore**: Memory & Strands system for intelligent conversation management
 - **Terraform IaC**: Complete automated deployment
 - **Real Database**: 200+ Thai guides, live availability checking
-- **Multi-Modal Intelligence**: Nova Pro reasoning + Nova Act image analysis
+- **Multi-Modal Intelligence**: Nova Pro reasoning + image analysis
 - **Multi-Platform**: Webhook-based integration for any chat app
 
 ## 🌟 Global Expansion
@@ -73,22 +73,21 @@ See `demo/DEMO_GUIDE.md` for complete demo instructions and flows.
 - **Tourism-specialized** agent workflows with cultural intelligence
 - **Multi-platform native** design for global chat app integration
 - **Two-sided marketplace** capabilities with memory persistence
-- **Multi-modal processing** with Nova Pro + Nova Act integration
+- **Multi-modal processing** with Nova Pro
 
 **Regional Strategy**:
 - **eu-west-1**: Primary region for Nova cross-region inference (EU-based models now available)
-- **Least Privilege IAM**: Minimal permissions for only EU regions Nova Pro/Act + DynamoDB access
+- **Least Privilege IAM**: Minimal permissions for only EU regions Nova Pro + DynamoDB access
 - **Global Scalability**: Code designed for easy modification to support other regions for different user bases
 
 **Recent Breakthroughs**:
 - **Memory & Strands System**: Context preservation across multi-agent conversations
 - **Booking Confirmation Logic**: Enhanced intent detection for seamless booking flows
 - **Cultural Agent Enhancement**: Comprehensive guidance with detailed formatting
-- **Multi-Modal Integration**: Seamless Nova Act image analysis with Nova Pro reasoning
 - **Enhanced Orchestrator**: Memory-aware conversation management with intelligent routing
 
 ---
 
-**🌍 Global Vision | 🇹🇭 Thailand Start | 💬 Multi-Platform | 🤖 Nova Pro/Act Powered | 🏗️ Production-Ready**
+**🌍 Global Vision | 🇹🇭 Thailand Start | 💬 Multi-Platform | 🤖 Nova Pro Powered | 🏗️ Production-Ready**
 
 *Making tourism booking as simple as sending a chat message - anywhere in the world.*
