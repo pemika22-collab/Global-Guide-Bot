@@ -1,6 +1,6 @@
 # 🌍 Global Guide Bot - AI Tourism Marketplace
 
-**Two-sided marketplace** connecting tourists with local guides through chat conversations. **Starting with Thailand 🇹🇭, expanding globally**. Powered by **Amazon Nova Pro** and **Nova Act** with autonomous booking capabilities.
+**Two-sided marketplace** connecting tourists with local guides through chat conversations. **Starting with Thailand 🇹🇭, expanding globally**. Powered by **Amazon Nova Pro** with autonomous booking capabilities.
 
 **Multi-Platform**: Starting with WhatsApp, expanding to LINE, Telegram, WeChat, SMS - any chat platform with webhooks.
 
@@ -8,7 +8,6 @@
 
 ### **🧠 AI-Powered Intelligence**
 - **Amazon Nova Pro**: Advanced reasoning for intent detection and conversation orchestration
-- **Amazon Nova Act**: Multi-modal image analysis for landmark identification and cultural context
 - **Cultural Intelligence**: Local customs, etiquette, and cultural guidance with comprehensive do's/don'ts
 - **Two-Sided Marketplace**: Tourists book guides, guides register - same AI system
 
